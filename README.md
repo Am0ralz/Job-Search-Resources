@@ -42,7 +42,7 @@ Curated list resources to make job searching bit easier and manageable and hopef
 - https://airtable.com/
 ### Technical Interview
 - https://leetcode.com/
-- https://www.pramp.com/#/
+- https://www.pramp.com/
 - https://interviewing.io/
 - https://www.interviewcake.com/
 - https://www.hackerrank.com/
