@@ -31,7 +31,7 @@ Curated list resources to make job searching bit easier and manageable and hopef
 - https://www.indeed.com/
 - https://www.monster.com/
 - https://stackoverflow.com/jobs
-#### StartUps
+#### Startups
 - https://angel.co/
 - https://www.builtinnyc.com/
 - https://www.startupers.com/
