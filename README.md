@@ -1,6 +1,6 @@
 Resources for Job Search
 =============
-Curated list resources to make job searching bit easier and manageable and hopefully successful 
+Curated list resources to make job searching a bit easier, manageable, and successful. 
 ### Resume Builder
 
 - https://www.canva.com/
