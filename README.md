@@ -56,8 +56,7 @@ Curated list resources to make job searching a bit easier, manageable, and succe
 - https://interviewing.io/
 - https://www.interviewcake.com/
 - https://www.hackerrank.com/
-### Practice/ Interviews/Match
-- https://www.interviewbit.com/
+
 
 
 
